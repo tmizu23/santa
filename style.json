@@ -50,7 +50,7 @@
           "雪",
           "#ffffff",
           "蹄",
-          "#bf731e",
+          "#7a4d0e",
           "箱",
           "#eddb69",
           "箱のふた",
@@ -80,7 +80,7 @@
           "#FFFFFF"
         ],
         "fill-outline-color": "#000000",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.9
       }
     }
   ]
