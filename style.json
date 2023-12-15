@@ -2,18 +2,6 @@
   "layers": [
     {
       "id": "example-id",
-      "type": "line",
-      "source": "example-source",
-      "source-layer": "santa",
-      "minzoom": 0,
-      "maxzoom": 24,
-      "paint": {
-        "line-color": "#FFFFFF",
-        "line-width": 2
-      }
-    },
-    {
-      "id": "example-id",
       "type": "fill",
       "source": "example-source",
       "source-layer": "santa",
